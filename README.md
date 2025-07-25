@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](https://fluxprotocol.com/license)
 [![Version](https://img.shields.io/badge/Version-1.0-blue.svg)](https://fluxprotocol.com/changelog)
-[![Website](https://img.shields.io/badge/Website-fluxprotocol.com-purple.svg)](https://fluxprotocol.com)
+[![Website](https://img.shields.io/badge/Website-fluxprotocol.com-purple.svg)](https://vercel.fluxprotocol.com)
 [![Documentation](https://img.shields.io/badge/Docs-Official-green.svg)](https://docs.fluxprotocol.com)
 
 **FLUX is a next-generation email communication protocol, engineered from the ground up to be fast, secure, and efficient. It overcomes the limitations of legacy protocols like IMAP and POP3, delivering a real-time experience for modern applications.**
